@@ -1,0 +1,40 @@
+.dice {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 10%;
+    top: 100px;
+    
+}
+
+.dice2 {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 10%;
+    top: 250px;
+
+    
+}
+
+button {
+    position: absolute;
+    
+    font-family: impact;
+    font-size: 20px;
+    text-transform: capitalize;
+    color: rgb(255, 255, 255);
+    background-color: slategrey;
+    border:none;
+
+}
+.roll-dice {
+    left: 50%;
+    transform: translateX(-50%);
+    top: 400px
+}
+.number-dice {
+    left: 50%;
+    transform: translateX(-50%);
+    top: 450px 
+}
